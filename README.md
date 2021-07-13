@@ -1,4 +1,4 @@
-![asf](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![asf](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) >
 
 ### Hey all 👋
 My name is Lamprini Papargyri and i am a Junior AI-ML engineer.
@@ -25,5 +25,6 @@ My name is Lamprini Papargyri and i am a Junior AI-ML engineer.
 
   
 ## My stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=papargyri&show_icons=true&theme=dark&line_height=27" alt="Lamprini's github stats"/>
-</a>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=papargyri&show_icons=true&theme=radical" alt="Lamprini's Github Stats">
+</p>  
