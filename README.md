@@ -23,7 +23,6 @@ My name is Lamprini Papargyri and i am a Junior AI-ML engineer.
 <code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 
-<br/><br/>
   
 ## My stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=papargyri&show_icons=true&theme=dark&line_height=27" alt="Lamprini's github stats"/>
