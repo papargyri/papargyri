@@ -5,7 +5,8 @@ My name is Lamprini Papargyri and i am a Junior AI-ML engineer.
 
 
 ## About me
-👨‍💻 I am passionate about Data Science, Machine Learning, Computer Vision, Web Dev & I enjoy learning new things.
+:bulb: I am passionate about Data Science, Machine Learning, Computer Vision, Web Dev & I enjoy learning new things. <br/>
+:closed_book: Moreover, i am currently pursuing my PhD at the University of Cyprus.
 
 - 🌱 I’m currently improving my Machine-Learning skills
 - 👬 I’m looking to collaborate on Open source projects
