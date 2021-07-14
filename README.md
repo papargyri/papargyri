@@ -12,7 +12,7 @@ My name is Lamprini Papargyri and i am a Junior AI-ML engineer.
 - 👬 I’m looking to collaborate on Open source projects
 - ♥️ Python
 - 💬 Ask me about Data Science, Machine-Learning, Python
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/lamprini-papargyri-393bb2108/)](https://www.https://www.linkedin.com/in/lamprini-papargyri-393bb2108/)
+- 📫 How to reach me: [Email](papargyri1@gmail.com)
 
 
 ## Languages and Tools I use :computer:
