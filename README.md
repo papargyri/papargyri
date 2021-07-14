@@ -1,4 +1,7 @@
-![asf](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) 
+<p align="center">
+  <img width="550" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
+
 
 ### Hey all 👋
 My name is Lamprini Papargyri and i am a Junior AI-ML engineer.
